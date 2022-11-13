@@ -1,0 +1,21 @@
+input: .
+output: .retype
+url: lifeinenglish.net/handbook
+branding:
+  title: Member Handbook
+  label: 
+  logo: /img/lie_logo.png
+links:
+- text: Home
+  icon: home
+  link: index.md
+- text: Website
+  icon: globe
+  link: https://lifeinenglish.net
+  target: blank
+- text: Discord
+  icon: comment-discussion
+  link: https://discord.com/app
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
