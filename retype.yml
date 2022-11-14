@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: build
 url: lifeinenglish.net/handbook
 branding:
   title: Member Handbook
